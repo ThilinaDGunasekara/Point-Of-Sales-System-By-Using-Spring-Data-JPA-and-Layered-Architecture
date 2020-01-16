@@ -1,0 +1,60 @@
+Jan 16, 2020 3:26:28 PM lk.ijse.dep.pos.AppInitializer start
+SEVERE: null
+java.lang.NullPointerException: Location is required.
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3207)
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3175)
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3148)
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3124)
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3104)
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:3097)
+	at lk.ijse.dep.pos.AppInitializer.start(AppInitializer.java:40)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$8(LauncherImpl.java:863)
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$7(PlatformImpl.java:326)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$5(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$6(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$10(GtkApplication.java:245)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 16, 2020 3:27:16 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:29:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:29:09 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:33:18 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:33:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:06 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:08 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:10 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:12 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:13 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:14 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:16 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:18 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:22 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:30 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:35:31 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:36:10 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:36:11 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
+Jan 16, 2020 3:36:13 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.221
